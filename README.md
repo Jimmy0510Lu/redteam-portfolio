@@ -1,5 +1,5 @@
 # redteam-portfolio
-集合我的 Red Team / CTF 練習筆記&amp;、工具與截圖。
+集合我的 Red Team / CTF 練習筆記、工具與截圖。
 
 ## 結構
 - writeups/: 解題筆記（Markdown）
